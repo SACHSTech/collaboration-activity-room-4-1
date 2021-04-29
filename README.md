@@ -14,3 +14,19 @@ Assisting with technical upgrades, improvements and enhancements by leading glob
 May assist in the development of project plans
 Developing, reviewing and improving the functionality of the Bosch Career website
 Detroit, MI
+
+## EDUCATION
+**Bachelor’s Degree in Business Administration**
+*DUKE UNIVERSITY*
+
+## SKILLS
+* Computer proficiency with applicable software applications (for example Microsoft Office, CAD, Adobe Suite, programming
+Knowledge, experience and updating Knowledge Management systems
+* Basic knowledge on data base architecture
+* Basic knowledge on Component Content Management System (CCMS) Software like Cosima, Astoria, etc
+Strong writing and communication skills including the development and review of policy / standard related documentation
+* Basic programming and scripting skills like PowerShell, VBscript, Java and Perl
+* Ability to work in the U.S. for an indefinite period of time
+* Ability to work within a team environment
+* Flexibility and ability to deal with ambiguity
+* Excellent analytical, written and oral communication skills
